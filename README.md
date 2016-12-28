@@ -1,7 +1,7 @@
 echo "# DisappearCode" >> README.md
 git init
 git add README.md
-# This line should be removed without trace.: No way!
+# This code should not be removed without notice!
 ## Add a line after
 ### Life goes on...
 git commit -m "first commit"
